@@ -1,0 +1,31 @@
+﻿  godrun!.cpp
+D:\vs2022\godrun!\godrun!\godrun!.cpp(91,64): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs2022\godrun!\godrun!\godrun!.cpp(91,50): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs2022\godrun!\godrun!\godrun!.cpp(92,44): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs2022\godrun!\godrun!\godrun!.cpp(92,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs2022\godrun!\godrun!\godrun!.cpp(403,32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs2022\godrun!\godrun!\godrun!.cpp(403,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs2022\godrun!\godrun!\godrun!.cpp(407,62): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs2022\godrun!\godrun!\godrun!.cpp(407,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs2022\godrun!\godrun!\godrun!.cpp(407,38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs2022\godrun!\godrun!\godrun!.cpp(407,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs2022\godrun!\godrun!\godrun!.cpp(412,63): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+D:\vs2022\godrun!\godrun!\godrun!.cpp(412,52): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+D:\vs2022\godrun!\godrun!\godrun!.cpp(413,54): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+D:\vs2022\godrun!\godrun!\godrun!.cpp(413,43): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+D:\vs2022\godrun!\godrun!\godrun!.cpp(413,36): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+D:\vs2022\godrun!\godrun!\godrun!.cpp(413,29): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+D:\vs2022\godrun!\godrun!\godrun!.cpp(417,68): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+D:\vs2022\godrun!\godrun!\godrun!.cpp(417,57): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+D:\vs2022\godrun!\godrun!\godrun!.cpp(418,54): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+D:\vs2022\godrun!\godrun!\godrun!.cpp(418,43): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+D:\vs2022\godrun!\godrun!\godrun!.cpp(418,36): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+D:\vs2022\godrun!\godrun!\godrun!.cpp(418,29): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+D:\vs2022\godrun!\godrun!\godrun!.cpp(424,42): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+D:\vs2022\godrun!\godrun!\godrun!.cpp(424,33): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+D:\vs2022\godrun!\godrun!\godrun!.cpp(424,28): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+D:\vs2022\godrun!\godrun!\godrun!.cpp(424,23): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+D:\vs2022\godrun!\godrun!\godrun!.cpp(431,92): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs2022\godrun!\godrun!\godrun!.cpp(431,58): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs2022\godrun!\godrun!\godrun!.cpp(431,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  godrun!.vcxproj -> D:\vs2022\godrun!\x64\Debug\godrun!.exe
